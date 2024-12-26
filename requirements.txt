@@ -1,2 +1,4 @@
 groq~=0.13.1
 PyPDF2~=3.0.1
+streamlit~=1.41.1
+fpdf~=1.7.2
