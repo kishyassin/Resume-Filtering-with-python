@@ -14,7 +14,7 @@ def process_cv_folder(folder_path="Banque-CV"):
         result = extract_json_from_text_with_grok_ai(output_text)
         json_results.append(result)
 
-    with open('banque-cv2.json', 'w', encoding='utf-8') as json_file:
+    with open('banque-cv.json', 'w', encoding='utf-8') as json_file:
         json.dump(json_results, json_file, ensure_ascii=False, indent=4)
 
 
