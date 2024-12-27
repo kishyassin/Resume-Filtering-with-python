@@ -1,0 +1,199 @@
+[
+    {
+        "name": "First Lastname",
+        "email": "First.lastname@selu.edu",
+        "phone": "985-555-1234",
+        "location": "City, State, Zip Code",
+        "skills": [
+            "CPR",
+            "First Aid",
+            "Proficient in Microsoft Word",
+            "Basic knowledge of Microsoft PowerPoint and Excel"
+        ],
+        "experience": [
+            {
+                "job_title": "Dining Room Attendant",
+                "company": "SLU Food Services",
+                "start_date": "August 2020",
+                "end_date": "March 2021",
+                "responsibilities": [
+                    "Maintained a clean and safe environment for the dining hall",
+                    "Communicated with students and staff to resolve issues and ensure quality experience",
+                    "Completed the Student Manager Training Program within the first month of work"
+                ]
+            },
+            {
+                "job_title": "Babysitter",
+                "company": "Self-Employed",
+                "start_date": "August 2019",
+                "end_date": "June 2020",
+                "responsibilities": [
+                    "Ensured the safety, health, and welfare of 2 children, ages 3 and 8",
+                    "Organized safe, fun, and educational activities",
+                    "Supported learning by explaining homework and working through problems together"
+                ]
+            },
+            {
+                "job_title": "Student Athlete",
+                "company": "Southeastern Louisiana University Volleyball Team",
+                "start_date": "August 2020",
+                "end_date": "Present",
+                "responsibilities": [
+                    "Selected as one of the top team members after completing a 20-hour intensive training period",
+                    "Participated in # philanthropy events yearly to represent the university",
+                    "Dedicated # hours per week to training and competition while balancing # academic hours"
+                ]
+            },
+            {
+                "job_title": "Volleyball Representative",
+                "company": "Student-Athlete Advisory Committee, Southeastern Louisiana University",
+                "start_date": "August 2021",
+                "end_date": "May 2022",
+                "responsibilities": [
+                    "Attended weekly committee meetings, representing the women's volleyball team fairly",
+                    "Advocated for concerns and interests of student-athletes at Southeastern",
+                    "Served as a leader to implement resolutions voted on by the board each year"
+                ]
+            },
+            {
+                "job_title": "Basketball Camp Coach/Coor dinator",
+                "company": "Parks and Recr eation, Hammond, LA",
+                "start_date": "Summer 2020",
+                "end_date": "Summer 2022",
+                "responsibilities": [
+                    "Instructed 60-70 1st-9th grade athletes on proper athletic skills development",
+                    "Created interactive sessions to engage youth and practice safe techniques and strategies",
+                    "Collaborated with 4 other coaches in a team environment",
+                    "Monitored and evaluated drills and activities and implemented proper safety measures",
+                    "Maintained positive communication with campers and parents"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science",
+                "institution": "Southeastern Louisiana University",
+                "start_date": "May 2025",
+                "major": "Biological Sciences",
+                "GPA": "3.1"
+            }
+        ],
+        "certifications": [
+            {
+                "name": "CPR and First Aid Certified"
+            }
+        ]
+    },
+    {
+        "name": "CVName",
+        "email": "professional email address",
+        "phone": "phone number",
+        "skills": [
+            {
+                "technical": [
+                    "Skill 1",
+                    "Skill 2",
+                    "Skill 3"
+                ],
+                "languages": [
+                    "Skill 1",
+                    "Skill 2"
+                ]
+            }
+        ],
+        "experience": [
+            {
+                "job_title": "Research/Teaching Experience",
+                "company": "Department Name, Institution",
+                "start_date": "Month Year",
+                "end_date": "Month Year",
+                "responsibilities": "Discuss research/teaching methods and achievements"
+            },
+            {
+                "job_title": "Work Experience",
+                "company": "Name of Company",
+                "start_date": "Month Year",
+                "end_date": "Month Year",
+                "responsibilities": "Include relevant industry experiences"
+            }
+        ],
+        "education": [
+            {
+                "degree": "Doctor of Philosophy (PhD)",
+                "institution": "Institution Name",
+                "start_date": "Month and Year",
+                "end_date": "",
+                "responsibilities": "Dissertation (if applicable)"
+            },
+            {
+                "degree": "Master of Science (MS)/Art (MA)",
+                "institution": "Institution Name",
+                "start_date": "Month and Year",
+                "end_date": "",
+                "responsibilities": "Thesis (if applicable)"
+            },
+            {
+                "degree": "Bachelor of Science (BS)/Art (BA)",
+                "institution": "Institution Name",
+                "start_date": "Month and Year",
+                "end_date": "",
+                "responsibilities": "Concentration/Minor/Emphasis"
+            }
+        ],
+        "certifications": [
+            {
+                "name": "Title of Certification",
+                "issuing_organization": "Awarding Association",
+                "issue_date": "Month and Year"
+            }
+        ],
+        "location": "Current location (if mentioned)"
+    },
+    {
+        "name": "Jane Doe",
+        "email": "jane.doe@selu.edu",
+        "phone": "985-555-5555",
+        "skills": [
+            "Assisting elderly clients",
+            "Quickly developing caring and supportive relationships",
+            "Excellent judgment regarding clients' issues",
+            "Creativity and excellent teaching skills",
+            "Training peers and community members"
+        ],
+        "experience": [
+            {
+                "job_title": "Direct Support Professional",
+                "company": "Volunteers of America",
+                "start_date": "November 2021",
+                "end_date": "Present",
+                "responsibilities": [
+                    "Worked in partnership with a 15-person team of healthcare professionals",
+                    "Ensured patient safety",
+                    "Coached clients to create and reach goals",
+                    "Advocated for clients' needs and best interests",
+                    "Maintained confidentiality and prepared reports"
+                ]
+            },
+            {
+                "job_title": "Discovery Intern",
+                "company": "Southeastern Louisiana University Family Resource Project",
+                "start_date": "January 2020",
+                "end_date": "November 2020",
+                "responsibilities": [
+                    "Maintained client portfolio",
+                    "Collaborated with supervisor to teach parenting classes",
+                    "Built knowledge base through continuous research"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Arts",
+                "institution": "Southeastern Louisiana University",
+                "start_date": "May 2024"
+            }
+        ],
+        "certifications": [],
+        "location": "Hammond, LA"
+    }
+]
